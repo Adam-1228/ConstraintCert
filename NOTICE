@@ -1,0 +1,17 @@
+ConstraintCert
+Copyright 2026 CHI YONG SEONG
+
+Original software components identified in LICENSE_SCOPE.md are licensed under
+the Apache License, Version 2.0. The scope excludes third-party and paper material
+as described there.
+
+The selected upstream Milvus v3.0.0 configuration is unchanged from commit
+f46a0328558be155d11266a1a2b90602ccc9b366. Preserve its original header and the
+exact Apache-2.0 license at
+paper/submission/artifact-candidate/third-party/milvus-v3.0.0/LICENSE.
+The previously retained full upstream tree inspection found no upstream
+NOTICE-like file; this project notice does not invent one.
+
+No database runtime, model, Python distribution, TeX engine or official paper
+template is vendored by this notice. Corpus-derived and bibliographic materials
+require their own source attribution in the final artifact package.
