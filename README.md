@@ -12,6 +12,8 @@ H2 did not meet its global precision requirement. H3 supports the restricted mat
 
 Download and extract `ConstraintCert-reproduction-20260927-v1.zip`, verify its adjacent SHA-256 file, then follow the archive's `README.md`. `FILES.json` binds every payload file. Start with the two standard-library analysis checks; database reruns are separate and require the frozen dependencies and environment contracts.
 
+The same release also provides `ConstraintCert-paper-source-20260927-v1.zip` (61,128 bytes), the final R85 manuscript-source supplement. It adds the verified availability URL, restores the MQuery comparison, and updates source documentation without changing any empirical observation or decision. Its SHA-256 is `e76e89e55922277db80b8b0b847321b45be961c286fd724b9348b30b163bf340`. Read the supplement README for using it alongside the base extraction. The larger ZIP deliberately retains the earlier R82 paper snapshot and is unchanged. The current paper has 22 references and its locally reviewed PDF is eight pages; neither file is a submitted or accepted paper.
+
 The archive is about 221 MB (1.95 GB uncompressed payload). Historical source and result bytes are preserved. This does not promise turnkey execution of all original Windows-specific launchers on arbitrary machines.
 
 ## Licenses and disclosure
